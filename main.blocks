@@ -1,0 +1,4 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="XOz{XkjsKWQS//PwKmeq">humedad</variable></variables><comment id="AUL5m#g/G#[~7UX7aVo~" x="376" y="-133" h="155" w="332">Pin 0 = sensor de humedad
+Pin 1 = relé
+Pin 5 = led blanco (seco)
+Pin 2 = led blanco (humedo)</comment></xml>
